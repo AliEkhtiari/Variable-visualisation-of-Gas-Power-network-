@@ -1,0 +1,16 @@
+node1,node2,color,flow
+e1,e4,lightcoral,5
+e1,e10,lightcoral,6
+e9,e10,lightcoral,2.5
+e6,e9,lightcoral,1.5
+e6,e7,lightcoral,2
+e7,e8,lightcoral,4
+e8,e9,lightcoral,6
+e3,e5,lightcoral,3
+e5,e6,lightcoral,2.5
+e5,e11,lightcoral,1.5
+e4,e5,lightcoral,3.5
+e2,e4,lightcoral,5
+e11,e12,lightcoral,4
+e11,e13,lightcoral,2
+e14,e5,lightcoral,3
